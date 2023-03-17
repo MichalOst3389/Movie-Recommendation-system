@@ -17,9 +17,9 @@ The data is the MovieLens dataset from the GroupLens research lab at the Univers
 
 ### The Most and Least Common Genres in MovieLens library
 
-Here we compare the amount of movies for each genre.  I was looking for insight into what is most popular and what is least popular.  From this graph the question that I asked myself is why there was such a big difference in the number of movies in the less common genres to the genres with more movies.   
-
 ![Alt text](https://github.com/MichalOst3389/phase_4_project/blob/main/Visuals/Movies%20per%20Genre.png)
+
+Here we compare the amount of movies for each genre.  I was looking for insight into what is most popular and what is least popular.  From this graph the question that I asked myself is why there was such a big difference in the number of movies in the less common genres to the genres with more movies.   
 
 ### Which Genres Dominate the Ratings
 
@@ -44,3 +44,13 @@ While creating the box and whisker plot, my attention was focused on examining t
 After running 3 different types of models (collaborative based filtering, content based filtering, and a hybrid approach) I found the baseline collaborative model to have the best performance with an RMSE of 1.9.  While not great, it was much better then both other models which had RMSEs of 2.8.
 
 ![Alt text](https://github.com/MichalOst3389/phase_4_project/blob/main/Visuals/collab%20model%20metrics.png)
+
+# Conclusions and Actionable Insight
+
+1.) Deploy the new Collaborative Based Filter.
+
+2.) Add more movies to our database, especially those from less represented genres.
+
+3.) Obtain more data about writers, actors/actresses, and any other relevant information to enhance our recommendations.
+
+4.) Encourage users to rate and watch more movies, as this will increase the likelihood of receiving personalized recommendations for movies they'll enjoy.
