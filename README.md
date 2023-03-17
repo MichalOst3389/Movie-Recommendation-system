@@ -54,4 +54,3 @@ After running 3 different types of models (collaborative based filtering, conten
 3.) Obtain more data about writers, actors/actresses, and any other relevant information to enhance our recommendations.
 
 4.) Encourage users to rate and watch more movies, as this will increase the likelihood of receiving personalized recommendations for movies they'll enjoy.
-
