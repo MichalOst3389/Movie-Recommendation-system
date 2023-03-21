@@ -11,6 +11,9 @@ As a secondary task FlixGenius wants to add more movies to the streaming library
 
 # Data 
 The data is the MovieLens dataset from the GroupLens research lab at the University of Minnesota
+There are around 100k ratings for movies and 610 different users.  I found that the most relevant data were the ratings, the genres, and the tags.
+
+Also used was data from Imdb, relevant data from this database included directors, which was merged using "tconst" as a common idendtifier later in the notebook.
 
 
 # Results
