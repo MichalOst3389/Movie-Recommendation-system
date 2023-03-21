@@ -58,7 +58,11 @@ After running 3 different types of models (collaborative based filtering, conten
 # Repository Structure
 
 -Visuals
+
 -Data
+
 -notebook.ipynb
+
 -README.md
+
 -Slides.pdf
